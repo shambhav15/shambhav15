@@ -48,23 +48,6 @@ My preferred tools for building next-generation applications.
 * **Migrating legacy Node.js apps to the Bun runtime** for significant performance gains and streamlined developer experience.
 * Deepening my expertise in **React Server Components (RSC)** and cutting-edge data fetching patterns.
 
-## 🎙️ Media & Discourse
-
-I enjoy discussing the intersection of technology and culture.
-
-* I am a speaker on **HT Smartcast**, contributing to discussions on tech and culture.
-    *(💡 **Action Item for You:** Add the specific link to your featured show/segment here!)*
-
-## 💬 Ask Me About
-
-Feel free to open an issue or message me directly regarding:
-
-* **React Architecture & State Management**
-* **Bun Performance Tuning**
-* **Bollywood VFX & Film Tech**
-* **Socio-political Discourse & Current Affairs**
-
----
 
 <div align="center">
   
