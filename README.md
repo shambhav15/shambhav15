@@ -12,10 +12,10 @@
     <a href="https://github.com/shambhav15">
       <img src="https://komarev.com/ghpvc/?username=shambhav15&color=blueviolet" alt="Profile views" />
     </a>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:shambhavse15@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="https://www.linkedin.com/in/shandilyaa/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     </p>
